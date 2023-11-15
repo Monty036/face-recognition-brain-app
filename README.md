@@ -8,5 +8,5 @@ Final project for ZTM course
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
 
-*visist https://zerotomastery.io/ for more*
+The code for the backend api code[here](https://github.com/Monty036/face-recognition-brain-api)
 
